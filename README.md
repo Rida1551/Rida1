@@ -1,7 +1,7 @@
 # Rida1
  test-account
 
- #introduction to AI 
+ # introduction to AI 
 
  -why ml
  -advantages
