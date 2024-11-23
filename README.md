@@ -18,7 +18,6 @@ assignment table
 |serialno|asssignment|link|
 |--------|-----------|-----|
 |         |          |      |
-|         |          |      |
 |1       |libraries|[libraries](https://github.com/Rida1551/Rida1/blob/b276464d32369566a107dc11bf2cf46459c55f8c/libraries.ipynb)|
 
     
